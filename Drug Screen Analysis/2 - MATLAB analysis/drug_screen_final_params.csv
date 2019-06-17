@@ -1,0 +1,13 @@
+PARAMETERS,VALUES
+im_path,F:\Drug screen paper\3 - DRUG SCREEN DATA\20171003 Drug screen - Round 2\ALL_FILES
+track_path,F:\Drug screen paper\3 - DRUG SCREEN DATA\20171003 Drug screen - Round 2\ALL_DRUGS\TRACKING LOGS
+savefile,drug_test_noEQ
+nT,121
+dt,3
+min_H2B_intensity,320
+max_H2B_CV,0.04
+min_Erk_intensity,325
+bkgd_Erk,265
+hmin_height,5
+min_prominence,0.05
+frames_to_analyze,51:120

@@ -1,0 +1,13 @@
+PARAMETERS,VALUES
+im_path,F:\GOGLIA ET AL DATA ANALYSIS SUBMISSION\TEST DATASET\TIFFs
+track_path,F:\GOGLIA ET AL DATA ANALYSIS SUBMISSION\TEST DATASET\TrackMate
+nT,721
+dt,2
+min_H2B_intensity,700
+max_H2B_CV,0.07
+min_Erk_intensity,500
+bkgd_Erk,410
+hmin_height,5
+min_prominence,0.05
+frames_to_analyze,1:721
+savefile,test_24h
